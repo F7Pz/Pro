@@ -1,0 +1,44 @@
+
+.body {
+    background: #000000 !important;
+}
+.dropdown-menu{
+	
+	right: auto !important ;
+    left: 0px;
+    float: right;
+    text-align: right;
+}
+.navbar {
+	margin-bottom : 0px;
+}
+
+
+#ad1{
+	
+	background: #ffffff !important;
+    border-bottom: solid;
+	
+}
+.img-circle {
+    border-radius: 25%;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+}
+
+.art_bg {
+	border: solid 0px #000;
+}
+
+
+.sid_bg{
+	background: #f8f8f8;
+    border: solid 1px #000;
+	
+}
+
+.col-md-9 {
+    width: 75%;
+}
